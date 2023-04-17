@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+  <client>
+    <Nom>Dupont</Nom>
+    <RIB>123456789012</RIB>
+    <DateNaissance>150692</DateNaissance>
+	<Adresse>11  rue de tunis</Adresse>
+	<Telephone>97809854</Telephone>
+    <DateCreationCompte>010115</DateCreationCompte>
+  </client>
+  <client>
+    <Nom>Durand</Nom>
+    <RIB>987654321098</RIB>
+    <DateNaissance>020884</DateNaissance>
+	<Adresse>20     rue      de                      mahdia</Adresse>
+	<Telephone>50328097</Telephone>
+    <DateCreationCompte>040718</DateCreationCompte>
+  </client>
+  <client>
+    <Nom>Leclerc</Nom>
+    <RIB>456789012345</RIB>
+    <DateNaissance>110194</DateNaissance>
+	<Adresse>33  rue          de                sousse</Adresse>
+	<Telephone>+00 50 328 097</Telephone>
+    <DateCreationCompte>150421</DateCreationCompte>
+  </client>
+  <client>
+    <Nom>Petit</Nom>
+    <RIB>789012345678</RIB>
+    <DateNaissance>040378</DateNaissance>
+	<Adresse>46      rue               de                         monastir</Adresse>
+	<Telephone>+00 22 6 54 78 9</Telephone>
+    <DateCreationCompte>010101</DateCreationCompte>
+  </client>
+  <client>
+    <Nom>Martin</Nom>
+    <RIB>345678901234</RIB>
+    <DateNaissance>270697</DateNaissance>
+	<Adresse>50               rue      de                    nabeul</Adresse>
+	<Telephone>+0033 6 54 45 2 test</Telephone>
+    <DateCreationCompte>150319</DateCreationCompte>
+  </client>
+</clients>
